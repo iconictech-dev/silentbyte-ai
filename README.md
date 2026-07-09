@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.postimg.cc/SNqN1LSR/file-00000000c00071f4b215d2a40050d224.png" alt="Silentbyte AI Logo" width="110">
+  <img src="https://i.postimg.cc/SNqN1LSR/file-00000000c00071f4b215d2a40050d224.png" alt="Silentbyte AI Logo" width="220">
 
   <h1>Silentbyte AI — WhatsApp Chatbot</h1>
 
